@@ -1,0 +1,33 @@
+*{
+    background-color: black;
+}
+#img{
+   width: 1000px;
+   height: 500px;
+   border: 8px solid white;
+   
+}
+.image{
+display: flex;
+justify-content: center;
+margin-top: 50px;
+}
+
+.button{
+    display: flex;
+   justify-content: center;
+   margin-top: 50px;
+  
+}
+#btn1{
+    background-color: white;
+    height: 30px;
+    width: 100px;
+    margin-right: 10px;
+}
+#btn2{
+    background-color: white;
+    background-color: white;
+    height: 30px;
+    width: 100px;
+}
